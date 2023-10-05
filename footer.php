@@ -51,13 +51,13 @@
                 <h5>Quick Links</h5>
                 <ul class="list-unstyled">
                     <li>
-                        <a href="https://chefonline.com/epos/terms-and-conditions">Terms and Conditions</a>
+                        <a href="terms_and_condition.php">Terms and Conditions</a>
                     </li>
                     <li>
-                        <a href="https://chefonline.com/epos/contact">Contact Us</a>
+                        <a href="contact.php">Contact Us</a>
                     </li>
                     <li>
-                        <a href="https://chefonline.com/epos/sitemap">Site Map</a>
+                        <a href="#">Site Map</a>
                     </li>
                 </ul>
             </div>
@@ -66,9 +66,9 @@
                 <h5>Categories</h5>
                 <ul class="list-unstyled">
                     <li>
-                        <a href="https://chefonline.com/epos/enterprise-epos-packages">ChefOnline EPoS Packages</a>
+                        <a href="package.php">ChefOnline EPoS Packages</a>
                     </li>
-                    <li><a href="https://chefonline.com/epos/add-on">Add ons</a></li>
+                    <li><a href="addon.php">Add ons</a></li>
                 </ul>
             </div>
 
@@ -162,8 +162,6 @@
             fixedContentPos: false,
         });
     });
-
-
 </script>
 </body>
 
